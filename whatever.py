@@ -4,3 +4,4 @@
 #
 
 print('Whatever')
+print('Whatever')
