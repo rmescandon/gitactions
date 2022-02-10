@@ -6,7 +6,6 @@ name: On demand
 on:
   workflow_dispatch:
     branches: [main]
-
   workflow_run:
     workflows: [Python application]
     # branches: [main]
