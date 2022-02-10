@@ -9,7 +9,7 @@ on:
 
   workflow_run:
     workflows: [Python application]
-    branches: [main]
+    # branches: [main]
     type:
       - completed
 
